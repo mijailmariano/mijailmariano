@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Mijail (he/him/el)
-## Data Science Padawan | People & Culture | Army Leader
+## Data Science Padawan | People & Culture | Leader
 
 
 ### Languages and Tools:
