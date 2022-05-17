@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mijail pronounced "me-ha-L" (he/him/el)
+# Hi there 👋 I'm Mijail (he/him/el)
 ## Data Science Padawan | People & Culture | Army Leader
 
 
