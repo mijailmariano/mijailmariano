@@ -1,7 +1,7 @@
-# Hi there 👋 I'm Mijail pronounced "me-ha-L" (he/him/el)
-## Data Science Padawan | People & Culture | Army Leader
+### Welcome, I'm Mijail :bowtie:
 
+#### People & Culture | Leader | Data Science Padawan
 
-### Languages and Tools:
+languages and tools (loading...)
 
-(loading...)
+[![LinkedIn](https://img.shields.io/badge/kevinvelasquez9-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mijailmariano)
