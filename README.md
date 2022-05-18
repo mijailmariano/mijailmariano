@@ -5,9 +5,7 @@ I am currently a Data Science student in Codeup's Kalpana Cohort. Codeup is a fu
 
 I welcome other data science and OrgDev enthusiasts to connect with me and join me on this journey.
 
-[![LinkedIn](https://img.shields.io/badge/mijailmariano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mijailmariano) [![Twitter](https://img.shields.io/badge/mijail_mariano-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mijail_mariano)
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano) [![Twitter Badge](https://img.shields.io/badge/-@mijail_mariano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mijail_mariano)](https://twitter.com/mijail_mariano) [![Gmail Badge](https://img.shields.io/badge/-mijail.mariano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mijail.mariano@gmail.com)](mailto:mijail.mariano@gmail.com)
 
 #### Competencies and Technical Skills
 
