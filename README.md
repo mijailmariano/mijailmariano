@@ -7,6 +7,9 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 
 [![LinkedIn](https://img.shields.io/badge/mijailmariano-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mijailmariano)
 
+[![Twitter](https://img.shields.io/badge/mijail_mariano-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mijail_mariano)
+
+
 #### Competencies and Technical Skills
 
 - data storytelling 
