@@ -5,7 +5,7 @@ I am currently a Data Science student in Codeup's Kalpana Cohort. Codeup is a fu
 
 I welcome other data science and OrgDev enthusiasts to connect with me and join me on this journey.
 
-[![LinkedIn](https://img.shields.io/badge/mijailmariano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mijailmariano), [![Twitter](https://img.shields.io/badge/mijail_mariano-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mijail_mariano)
+[![LinkedIn](https://img.shields.io/badge/mijailmariano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mijailmariano) [![Twitter](https://img.shields.io/badge/mijail_mariano-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mijail_mariano)
 
 
 
