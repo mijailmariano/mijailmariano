@@ -8,19 +8,18 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 [![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano) [![Twitter Badge](https://img.shields.io/badge/-@mijail_mariano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mijail_mariano)](https://twitter.com/mijail_mariano)
 
 ### Competencies and Technical Skills
-
-    - data storytelling 
-    - design thinking
-    - ux design
-    - applied statistics
-    - sql
-    - python
-    - pandas
-    - matplotlib
-    - machine learning
-    - natural language processing
-    - git
-    - jupyter notebooks
-    - anaconda
-    - tableau
-    - seaborn
+        - data storytelling 
+        - design thinking
+        - ux design
+        - applied statistics
+        - sql
+        - python
+        - pandas
+        - matplotlib
+        - machine learning
+        - natural language processing
+        - git
+        - jupyter notebooks
+        - anaconda
+        - tableau
+        - seaborn
