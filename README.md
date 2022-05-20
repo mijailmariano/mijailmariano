@@ -1,5 +1,5 @@
 ## Welcome, I'm Mijail :bowtie:
-People & Culture | Leader | Data Science Padawan
+Data Science Padawan | Organizational Psych. | People & Culture | Leader
 
 I am currently a Data Science student in Codeup's Kalpana Cohort. Codeup is a fully-immersive, project-based career accelerator that provides students with 670+ hours of expert instruction in applied data science. 
 
@@ -9,18 +9,18 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 
 #### Competencies and Technical Skills
 
-- data storytelling 
-- design thinking
-- ux design
-- applied Statistics
-- sql
-- python
-- pandas
-- matplotlib
-- machine learning
-- natural language processing
-- git
-- jupyter notebooks
-- anaconda
-- tableau
-- seaborn
+    - data storytelling 
+    - design thinking
+    - ux design
+    - applied statistics
+    - sql
+    - python
+    - pandas
+    - matplotlib
+    - machine learning
+    - natural language processing
+    - git
+    - jupyter notebooks
+    - anaconda
+    - tableau
+    - seaborn
