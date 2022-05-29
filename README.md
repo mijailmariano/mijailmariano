@@ -14,15 +14,16 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 - data storytelling 
 - design thinking
 - ux design
-- applied statistics
+- git
 - sql
 - python
+- numpy
 - pandas
-- matplotlib
-- machine learning
-- natural language processing
-- git
-- jupyter notebooks
 - anaconda
 - tableau
 - seaborn
+- matplotlib
+- machine learning
+- jupyter notebooks
+- applied statistics
+- natural language processing
