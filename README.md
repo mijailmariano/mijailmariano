@@ -13,38 +13,23 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 
 ----
 
-### **Creative Competencies & Technical Skills**
+### **Creative Competencies & Technical Skills** 
 
-``data storytelling``
-
-``design thinking``
-
-``ux design``
-
-``python``
-
-``sql ``
-
-``git`` 
-
-``numpy``
-
-``pandas``
-
-``sklearn``
-
-``tableau``
-
-``seaborn``
-
-``matplotlib``
-
-``machine learning``
-
-``jupyter notebooks``
-
-``applied statistics``
-
+``data storytelling`` \
+``design thinking`` \
+``ux design`` \
+``python`` \
+``sql `` \
+``git`` \
+``numpy`` \
+``pandas`` \
+``sklearn`` \
+``tableau`` \
+``seaborn`` \
+``matplotlib`` \
+``machine learning`` \
+``jupyter notebooks`` \
+``applied statistics`` \
 ``natural language processing``
 
 
