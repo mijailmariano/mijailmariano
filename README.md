@@ -13,7 +13,7 @@ I welcome other data science and OrgDev enthusiasts to connect with me and join 
 
 ----
 
-### **Creative Competencies :saxophone: & Technical Skills :wrench:**
+### **Creative Competencies & Technical Skills :saxophone:**
 
 data storytelling \
 design thinking \
