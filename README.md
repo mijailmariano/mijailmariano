@@ -33,3 +33,13 @@ applied statistics \
 natural language processing
 
 
+class mijail_mariano:
+  
+  def initialize():
+    @name = 'Mijail Mariano'
+    @work = [ 'US Army', 'FIRST Agency', 'Federal Reserve Bank of NY']
+    @education = [ 'LIU Post', 'Codeup' ]
+    @hobbies = [ 'Snowboarding', 'Hiking', 'Running', 'Woodworking']
+
+  def current_location():
+    'New York, NY'
