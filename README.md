@@ -34,7 +34,6 @@ natural language processing
 
 
 class mijail < Person
-
     def initialize
         @name = 'Mijail Mariano'
         @work = [ 'US Army', 'FIRST Agency', 'Federal Reserve Bank of NY']
