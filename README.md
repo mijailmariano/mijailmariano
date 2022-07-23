@@ -31,3 +31,25 @@ machine learning \
 jupyter notebooks \
 applied statistics \
 natural language processing
+
+
+class mijail < Person
+
+    def initialize
+        @name = 'Mijail Mariano'
+        @work = [ 'US Army', 'FIRST Agency', 'Federal Reserve Bank of NY']
+        @education = [ 'LIU Post', 'Codeup' ]
+        @hobbies = [ 'Snowboarding', 'Hiking', 'Running', 'Woodworking']
+    end 
+
+    def current_location
+        'New York, NY'
+    end
+
+    def technical_competencies
+        {
+            scripting_languages: ["Python", "Javascript", "SQL", "Git"]
+            packages: ["Pandas", "Numpy", "Sklearn", "Matplotlib", "Jupiter Notebooks"]
+        }
+    end
+end
