@@ -1,5 +1,5 @@
 ## Welcome, I'm Mijail :bowtie:
-Data Scientist | Organizational Psych.| People & Culture Leader | ex-Paratrooper & USACE Officer
+Data Scientist | Organizational Psych.| People & Culture Leader | ex-Paratrooper :parachute: & USACE Officer
 
 I am currently participating in Codeup's Kalpana Cohort. Codeup is a fully-immersive, project-based career accelerator that provides practitioners with over 600 hours of expert instruction in applied data science and statistics.
 
