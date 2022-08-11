@@ -1,8 +1,8 @@
 ## Hello World, I'm Mijail :bowtie:
-*pronunciation: (Me-ha-L)*\
-*pronouns: (he/him/el)*\
 Data Scientist | Organizational Psych.| People & Culture Leader | USACE & ex-Paratrooper :parachute: 
 
+*pronunciation: (Me-ha-L)*\
+*pronouns: (he/him/el)*
 
 I am currently participating in Codeup's Kalpana Cohort. Codeup is a fully-immersive, project-based career accelerator that provides practitioners with over 600 hours of expert instruction in applied data science and statistics.
 
