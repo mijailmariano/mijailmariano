@@ -1,20 +1,14 @@
 ## Hello World, I'm Mijail :bowtie:
 Data Scientist | Data Science @Codeup | People & Culture Leader | USACE & ex-Paratrooper :parachute: 
 
-*pronunciation: (Me-ha-L)*\
+*pronunciation: (me-ha-L)*\
 *pronouns: (he/him/el)*
 
 Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel workplace strategies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
 
-I am a graduate of Codeup's Data Science program. Codeup is a fully-immersive, project-based 20-week career accelerator that provides practitioners with 670+ hours of expert instruction in applied data science. I have expertise across the entire data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and have invaluable experience working across complex datasets with cross-functional teams to deliver actionable insights to diverse stakeholders.
+<span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending as much time with family and our dogs as possible. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:<br></br>
 
-**Some of Technical Competencies Include:**
-
-Python - SQL - Tableau - Applied Statistics - Machine Learning - Data Storytelling - Natural Language Processing - MySQL - Matplotlib - Pandas - NumPy - Spark - Git<br></br>
-
-<span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending as much time with family and our dogs as possible. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:
-
-**If you'd like to learn more about some of the Data Science projects and research I am working on, consider connecting with me.**</span> :world_map:
+**If you'd like to learn more about some of the data science projects and research I am working on, consider connecting with me.**</span> :world_map:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano) 
