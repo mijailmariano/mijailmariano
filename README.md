@@ -1,12 +1,12 @@
 ## Hello World, I'm Mijail :bowtie:
-Data Scientist | Organizational Psych.| People & Culture Leader | USACE & ex-Paratrooper :parachute: 
+Data Scientist | Data Science @Codeup | People & Culture Leader | USACE & ex-Paratrooper :parachute: 
 
 *pronunciation: (Me-ha-L)*\
 *pronouns: (he/him/el)*
 
 Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel workplace strategies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
 
-I am a graduate of Codeup's Data Science program. Codeup is a fully-immersive, project-based 20-week career accelerator that provides students with 670+ hours of expert instruction in applied data science. I have expertise across the entire data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and have invaluable experience working across complex datasets with cross-functional teams to deliver actionable insights to diverse stakeholders.
+I am a graduate of Codeup's Data Science program. Codeup is a fully-immersive, project-based 20-week career accelerator that provides practitioners with 670+ hours of expert instruction in applied data science. I have expertise across the entire data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and have invaluable experience working across complex datasets with cross-functional teams to deliver actionable insights to diverse stakeholders.
 
 **Some of Technical Competencies Include:**
 
