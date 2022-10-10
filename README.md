@@ -4,10 +4,17 @@ Data Scientist | Organizational Psych.| People & Culture Leader | USACE & ex-Par
 *pronunciation: (Me-ha-L)*\
 *pronouns: (he/him/el)*
 
-I am currently participating in Codeup's Kalpana Cohort. Codeup is a fully-immersive, project-based career accelerator that provides practitioners with over 600 hours of expert instruction in applied data science and statistics.
+Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel workplace strategies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
 
-<span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending as much time with family and our dogs as possible. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:<br></br>
-**I invite other data science and OrgDev enthusiasts to connect with me and join me in understanding the complexities in our world.**</span> :world_map:
+I am a graduate of Codeup's Data Science program. Codeup is a fully-immersive, project-based 20-week career accelerator that provides students with 670+ hours of expert instruction in applied data science. I have expertise across the entire data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and have invaluable experience working across complex datasets with cross-functional teams to deliver actionable insights to diverse stakeholders.
+
+**Some of Technical Competencies Include:**
+
+Python - SQL - Tableau - Applied Statistics - Machine Learning - Data Storytelling - Natural Language Processing - MySQL - Matplotlib - Pandas - NumPy - Spark - Git<br></br>
+
+<span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending as much time with family and our dogs as possible. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:
+
+**If you'd like to learn more about some of the Data Science projects and research I am working on, consider connecting with me.**</span> :world_map:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano) 
