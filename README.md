@@ -11,15 +11,19 @@ Data Scientist and experienced business strategy professional with a strong affi
 **If you'd like to learn more about some of the data science projects and research I am working on, consider connecting with me.**</span> :world_map:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano)[![The Den](https://img.shields.io/badge/-the_den-black?style=flat-square&logo=bookstack&logoColor=white&link=https://bookclubs.com/clubs/5964249/join/7211eb/)](https://bookclubs.com/clubs/5964249/join/7211eb/)
+[![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano)
+[![Twitter Badge](https://img.shields.io/badge/-@mijail_mariano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mijail_mariano)](https://twitter.com/mijail_mariano)
+[![The Den](https://img.shields.io/badge/-the_den-black?style=flat-square&logo=bookstack&logoColor=white&link=https://bookclubs.com/clubs/5964249/join/7211eb/)](https://bookclubs.com/clubs/5964249/join/7211eb/)
 
 ----
 
 ## <span style = "color:#2F4F4F">**🎨 Creative Competencies**</span>
 
-[![uxdesign](https://img.shields.io/badge/UX-design-blue)](https://www.interaction-design.org/literature/topics/ux-design)[![design_thinking](https://img.shields.io/badge/design-thinking-blue)](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)[![data_storytelling](https://img.shields.io/badge/data-storytelling-blue)](https://mitsloan.mit.edu/ideas-made-to-matter/next-chapter-analytics-data-storytelling)
+[![uxdesign](https://img.shields.io/badge/UX-design-blue)](https://www.interaction-design.org/literature/topics/ux-design)
+[![design_thinking](https://img.shields.io/badge/design-thinking-blue)](https://www.ideou.com/blogs/inspiration/what-is-design-thinking)
+[![data_storytelling](https://img.shields.io/badge/data-storytelling-blue)](https://mitsloan.mit.edu/ideas-made-to-matter/next-chapter-analytics-data-storytelling)
 
-<br></br>
+<!-- <br></br> -->
 
 ## <span style = "color:#2F4F4F">**🎺 Technical Skills**</span>
 
