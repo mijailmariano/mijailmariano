@@ -8,7 +8,7 @@ Data Scientist and experienced business strategy professional with a strong affi
 
 <span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending time with family. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:
 
-``currently working on...`` <span style="color:#a82e3f"> applying natural language processing to reddit text data and subreddit topics to study, detect, and predict future stressful or anxious text patterns. <br></br>
+``currently working on...`` <span style="color:#a82e3f"> applying natural language processing techniques to reddit text data and subreddit topics to study, detect, and predict future stressful or anxious text patterns. <br></br>
 
 **If you'd like to learn more about some of the data science projects and research I am working on, consider connecting with me.**</span> :world_map:
 
