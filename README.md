@@ -1,5 +1,5 @@
 ## Hello World, I'm Mijail :bowtie:
-Data Scientist | Data Science @Codeup | People & Culture Leader | USACE & ex-Paratrooper :parachute: 
+Data Scientist & Engineer | Computer Science @JHU | People & Culture Leader | USACE & ex-Paratrooper :parachute: 
 
 *pronunciation: (me-ha-L)*\
 *pronouns: (he/him/el)*
