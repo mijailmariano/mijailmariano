@@ -14,7 +14,6 @@ Data Scientist and experienced business strategy professional with a strong affi
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano)
-[![Twitter Badge](https://img.shields.io/badge/-@mijail_mariano-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mijail_mariano)](https://twitter.com/mijail_mariano)
 [![The Den](https://img.shields.io/badge/-the_den-black?style=flat-square&logo=bookstack&logoColor=white&link=https://bookclubs.com/clubs/5964249/join/7211eb/)](https://bookclubs.com/clubs/5964249/join/7211eb/)
 
 ----
