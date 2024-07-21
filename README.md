@@ -10,7 +10,7 @@ Data Scientist and experienced business strategy professional with a strong affi
 
 <!-- ``currently working on...`` <span style="color:#a82e3f"> applying natural language processing techniques to reddit text data and subreddit topics to identify and predict future stress or anxious related text patterns. <br></br> -->
 
-**If you'd like to learn more about some of the data science projects and research I am working on, consider connecting with me.**</span> :world_map:
+**connect with me!**</span> :world_map:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mijailmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijailmariano/)](https://www.linkedin.com/in/mijailmariano)
