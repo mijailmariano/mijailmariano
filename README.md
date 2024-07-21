@@ -1,8 +1,8 @@
 ## Hello World, I'm Mijail :bowtie:
-Engineer & Data Scientist | Computer Science @JHU | People & Culture Leader | USACE & ex-Paratrooper :parachute: 
+*pronunciation: (me-ha-L)* | *pronouns: (he/him/el)*
 
-*pronunciation: (me-ha-L)*\
-*pronouns: (he/him/el)*
+Engineer & Data Scientist | Computer Science @JHU | People & Culture Leader | USACE & ex-Paratrooper :parachute:
+
 
 Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel workplace strategies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
 
