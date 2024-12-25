@@ -4,7 +4,7 @@ Engineer & Data Scientist | Computer Science @JHU | People & Culture Leader | US
 
 *pronunciation: (me-ha-L)* | *pronouns: (he/him/el)*
 
-Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel workplace strategies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
+Data Scientist and experienced business strategy professional with a strong affinity for leveraging data to create inclusive and novel technologies. Empathy, energy, and creativity are foundational to everything that I am and collaborate on.
 
 <span style="color:#2F4F4F"> In my creative time, I enjoy writing, hiking, frisbee golf, and spending time with family. I also lead a bookclub that meets at the intersection of **leadership and culture** :footprints:
 
